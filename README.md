@@ -9,3 +9,4 @@ There are two main rules for interactions: when an inhabitant meets with a lever
 
 
 ![dds_leverage_counter_influences_poster1](https://user-images.githubusercontent.com/103535917/179237151-59125f0c-8d12-4f50-8ecf-c1955aaed26b.jpg)
+![dds_leverage_counter_influences_poster2](https://user-images.githubusercontent.com/103535917/179237585-736d2e2f-0f7d-46e6-a794-e732669d2792.jpg)
