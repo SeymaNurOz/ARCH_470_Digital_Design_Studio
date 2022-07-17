@@ -14,3 +14,7 @@ Video link:https://www.youtube.com/watch?v=kjcXTPaT1xk
 ![seymanuroz_poster_1](https://user-images.githubusercontent.com/103535917/179423794-dd1c6f1a-2a64-4f37-ba0e-1e046c5e7cf6.jpg)
 ![seymanuroz_poster_2](https://user-images.githubusercontent.com/103535917/179423799-d6577aa6-136a-44af-9239-2d708704bf2d.jpg)
 
+*The model was created in Grasshopper 3D and can be opened with Rhinoceros.
+(DDS_leverage.gh)
+
+*The Python script created for classifying the reference points of inhabitants. (ex: normal air inhabitants, fire water affected air inhabitants, etc.)
